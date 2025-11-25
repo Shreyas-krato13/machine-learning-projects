@@ -1,0 +1,26 @@
+===== MINI CALCULATOR =====
+1. Factorial of a number
+2. Single digit sum (Repeated digit sum)
+3. Check Armstrong number
+4. Exit
+Enter your choice (1-4): 1
+Enter number: 6
+Factorial: 720
+
+===== MINI CALCULATOR =====
+1. Factorial of a number
+2. Single digit sum (Repeated digit sum)
+3. Check Armstrong number
+4. Exit
+Enter your choice (1-4): 2
+Enter number: 123
+Single Digit Sum: 6
+
+===== MINI CALCULATOR =====
+1. Factorial of a number
+2. Single digit sum (Repeated digit sum)
+3. Check Armstrong number
+4. Exit
+Enter your choice (1-4): 3
+Enter number: 153
+153 is an Armstrong Number
